@@ -1,9 +1,9 @@
-# MERN LoginApp
+# MERN LoginApp JWT Token Authentication Reset Password OTP Verification
 
-- JWT Token
+- Create Login
 
-- Authentication
+- Registration
 
-- OTP Verification
+- Reset password with email OTP verification.
 
-- Reset Password
+- Profil update with JWT Token
